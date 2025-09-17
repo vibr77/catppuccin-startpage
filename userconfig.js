@@ -111,11 +111,23 @@ const default_configuration = {
           ],
         },
         {
-          name: "media",
+          name: "eShop",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
+              name: "eBay",
+              url: "https://www.ebay.fr",
+              icon: "news",
+              icon_color: palette.green,
+            },
+             {
+              name: "amazon",
+              url: "https://www.amazon.fr",
+              icon: "news",
+              icon_color: palette.green,
+            },
+            {
+              name: "leboncoin",
+              url: "https://www.leboncoin.fr",
               icon: "news",
               icon_color: palette.green,
             },
