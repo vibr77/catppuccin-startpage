@@ -131,7 +131,12 @@ const default_configuration = {
               icon: "news",
               icon_color: palette.green,
             },
-            
+            {
+              name: "Aliexpress",
+              url: "https://www.aliexpress.fr",
+              icon: "news",
+              icon_color: palette.green,
+            },
           ],
         },
       ],
